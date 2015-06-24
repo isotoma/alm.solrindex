@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.2 (xxxx-xx-xx)
-----------------
+2.1-isotoma (2015-06-24)
+------------------------
 
 - Fix stale cached highlighting information that 
   lead to in inconsistent results.
