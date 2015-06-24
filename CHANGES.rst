@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2.2-isotoma (unreleased)
+------------------------
+
+- Nothing changed yet.
+
+
 2.1-isotoma (2015-06-24)
 ------------------------
 
